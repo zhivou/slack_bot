@@ -1,0 +1,3 @@
+require_relative 'monkeys_bot_ruby_search_command'
+
+MonkeysBot.run

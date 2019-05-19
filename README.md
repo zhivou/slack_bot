@@ -1,2 +1,3 @@
 # slack_bot
-Slack Bot Project
+
+Search for a method in ruby doc with selenium and returns ascreenshot to slack
